@@ -1,11 +1,11 @@
 {
     "name": "iredcap/pay-php",
     "description": "Payment SDK",
-    "license": "MTI",
+    "license": "MIT",
     "authors": [
         {
             "name": "Brian Waring",
-            "email": "brianwaring98@gmail.com"
+            "email": "Brianwaring98@gmail.com"
         }
     ],
     "require": {
